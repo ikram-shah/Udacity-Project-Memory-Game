@@ -112,3 +112,40 @@ h1 {
     float: right;
     cursor: pointer;
 }
+
+
+@media screen and (max-width: 992px) {
+    .deck {
+      width: 90%;
+    }
+    .card{
+        margin: 2px;
+        padding-bottom: 10px;
+        max-height: 100px;
+        max-width:100px;
+    }
+  }
+
+@media screen and (max-width: 660px) {
+    .deck {
+      width:90%;
+    }
+    .card{
+        margin: 2px;
+        padding-bottom: 10px;
+        max-height: 100px;
+        max-width:100px;
+    }
+  }
+
+@media screen and (max-width: 400px) {
+    .deck {
+      width:90%;
+    }
+    .card{
+        margin: 2px;
+        padding-bottom: 10px;
+        max-height: 70px;
+        max-width:70px;
+    }
+  }
