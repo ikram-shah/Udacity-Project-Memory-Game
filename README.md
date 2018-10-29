@@ -9,7 +9,15 @@ This game randomly shuffles the cards and the user wins once all cards have succ
 Check out this link https://ikram-shah.github.io/Udacity-Project-Memory-Game/ to play the game.
 
 ## How to play
-You may start playing this game by clicking the cards. By proceeding to match two cards you'll be scoring and proceeding with the game. When all the cards are matched, the game is over.
+This game board consists of 16 cards. The condition to play the game and the rules are very simple: flip over two hidden cards at a time to locate the ones that match!
+
+Each turn:
+
+User flips one card over to reveal the underlying symbol.
+User turns over a second card and tries to find the corresponding card with the similar symbol.
+Once the cards matches, both cards stay flipped over.
+If suppose the cards do not match, then both the cards are flipped face down.
+The game ends once all cards have been correctly matched.
 
 ## List of dependencies 
 Font awesome
