@@ -13,10 +13,11 @@ This game board consists of 16 cards. The condition to play the game and the rul
 
 Each turn:
 
-User flips one card over to reveal the underlying symbol.
-User turns over a second card and tries to find the corresponding card with the similar symbol.
-Once the cards matches, both cards stay flipped over.
-If suppose the cards do not match, then both the cards are flipped face down.
+- User flips one card over to reveal the underlying symbol.
+- User turns over a second card and tries to find the corresponding card with the similar symbol.
+- Once the cards matches, both cards stay flipped over.
+- If suppose the cards do not match, then both the cards are flipped face down.
+
 The game ends once all cards have been correctly matched.
 
 ## List of dependencies 
