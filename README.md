@@ -6,5 +6,5 @@ To view this site, Check out this link https://ikram-shah.github.io/Udacity-Proj
 
 *The game randomly shuffles the cards and the user wins once all cards have successfully been matched.*
 
-Followed the Udacity Frontend Nanodegree Style Guide
+Followed the Udacity CSS Style Guide, HTML Style Guide, JavaScript Style Guide & Git Style Guide
 
